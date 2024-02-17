@@ -5,12 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
 3) Avila, T.D., Saltzman, M.R., **Adiatma, Y.D.**, Joachimski, M.M., Griffith, E.M., Olesik, J.W., 2022. Role of seafloor production versus continental basalt weathering in Middle to Late Ordovician seawater 87Sr/86Sr and climate. *Earth and Planetary Science Letters* 593, 117641. [link](https://doi.org/10.1016/j.epsl.2022.117641)
 
 2) Conwell, C.T., Saltzman, M.R., Edwards, C.T., Griffith, E.M., **Adiatma, Y.D.**, 2022. Nd isotopic evidence for enhanced mafic weathering leading to Ordovician cooling. *Geology*. [link](https://doi.org/10.1130/G49860.1)

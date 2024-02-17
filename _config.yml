@@ -1,12 +1,12 @@
 title: Datu Adiatma
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Yoseph Datu Adiatma personal / profesional website.
+  I am a geologist with expertise in geochemistry
+  sedimentology, and stratigraphy.
 twitter_username: mas_datu
 github_username: datuadiatma
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -64,13 +64,13 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/datuadiatma"
+      url: "https://twitter.com/mas_datu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/datuadiatma"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/datuadiatma"
 
 defaults:
   # _posts

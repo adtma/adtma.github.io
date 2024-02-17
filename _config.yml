@@ -60,7 +60,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/datuadiatma"
     - label: "Google Scholar"
-      icon: <i class="fa-brands fa-google-scholar"></i>
+      icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=9mauI8YAAAAJ&hl=en"
 
 footer:

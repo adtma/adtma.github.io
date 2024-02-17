@@ -59,6 +59,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/datuadiatma"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=9mauI8YAAAAJ&hl=en"
 
 footer:
   links:
@@ -71,6 +74,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/datuadiatma"
+    - label: "Google Scholar"
+      icon: "fab fa-fw fa-google-scholar"
+      url: "https://scholar.google.com/citations?user=9mauI8YAAAAJ&hl=en"
 
 defaults:
   # _posts

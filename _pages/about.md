@@ -16,6 +16,6 @@ I was born and raised in Indonesia. I attended [Institut Teknologi Bandung](http
 Outside of work, I enjoy coffee, going for a run, and biking. I did a couple of races when I was in gradschool (3 Marathons, a 9-mile race, a 20-mile race, and a run-bike-run duathlon). If you are looking for trails to run or coffee shops to go to in Columbus, please reach out! I will be more than happy to send you some of my favorite trails and coffee shops.
 
 ## Research
-Main research centers in reconstructing changes in geologic, oceanic, and paleoclimate processes using geochemical proxies and their roles in shaping the macro-evolution of life on Earth (i.e., long-term changes in biodiversity and rapid mass extinction events).
+My research centers in reconstructing changes in geologic, oceanic, and paleoclimate processes using geochemical proxies and their roles in shaping the macro-evolution of life on Earth (i.e., long-term changes in biodiversity and rapid mass extinction events).
 
 Overall, my research interest lies at the intersection between geology (*sedimentology, stratigraphy, geochemistry*) and paleoclimatology.

@@ -8,11 +8,11 @@ tags:
   - python
 toc: true
 ---
-In my previoud [post](https://www.adtma.pw/blog/geotimescale-python/), I shared my "go-to" python script to add a geologic time scale (gts) on my matplotlib plot. In this post I am going to give a more detailed explanation of the scripts. You jump to different sections of this post using the panel on the right.
+In my previoud [post](https://www.adtma.pw/blog/geotimescale-python/), I shared my "go-to" python script to add a geologic time scale (gts) on my matplotlib plot. In this post I am going to give a more detailed explanation of the scripts. You can jump to any sections of this post using the `on this page panel`.
 
 # Import and setup
 ## Import
-The first few lines of the code, import the required python packages/libraries to add gts.
+The first few lines of the code import the required python packages/libraries to add gts.
 
 {% highlight python %}
 import numpy as np
@@ -20,11 +20,11 @@ import matplotlib.pyplot as plt
 import pandas as pd
 {% endhighlight %}
 
-The three main libraries you need to import are: `numpy, matplotlib, and pandas`. Numpy's main job is to do array and matrix operatios, whereas pandas' job is to store the information such as ages, color, etc. Matplotlib is our main workhorse (i.e., creating visualization and plots).
+The three main libraries you need to import are: `numpy, matplotlib, and pandas`. Numpy's main job is to do array and matrix operations, whereas pandas' job is to store the information such as ages, color, etc. Matplotlib is our main workhorse (i.e., creating visualization and plots).
 
-If you are nerdier than me, and know more about python, you may question my choice in using pandas. I do know that I can wrap the data that I need to make the plot using python dictionary, but if it ain't broken, i don't need to fix it.
+If you are nerdier than me, and know more about python, you may question my choice in using pandas. I do know that I can wrap the data that I need to make the plot using python dictionary, but I am a true believer of `if it ain't broken, i don't need to fix it` principle:).
 
-In addition to the pyplot module of matplotlib, we also need to import the `Rectangle` patches module. As you may have guessed, its main job is drawing rectangle in matplotlib.
+In addition to the pyplot module of matplotlib, we also need to import the `Rectangle` patches module. As you may have guessed, its main job is drawing rectangles in matplotlib.
 
 The next line shown in the snippet below sets the thickness of your lines in the plot.
 
@@ -44,7 +44,7 @@ data = sin + error
 {% endhighlight %}
 
 ## Define units, boundary, and colors
-This is the meat of the script. I define the chronostratigraphic unit of the geologic time scale. For this exercise I plot two units, *Era* and *Period*. I store both units as `epoch` in the pandas dataframe that will be created to store these variable. The rest of the info that we need to enter are the lower and upper boundary of the units, and the color that we want to use. As a stratigrapher I am big believer of using the official color code for each chronostratigraphic unit.
+This is the meat of the script. I define the chronostratigraphic unit of the geologic time scale. For this exercise I plot two units, *Era* and *Period*. I store both units as `epoch` in the pandas dataframe that will be created to store these variable. The rest of the info that we need to enter are the lower and upper boundary of the units, and the color that we want to use. As a stratigrapher I a am big believer of using the official color code for each chronostratigraphic unit. You can find the list of color [here](https://ccgm.org/en/product/colour-code-according-to-the-commission-for-the-geological-map-of-the-world-cgmw/).
 
 {% highlight python %}
 gts = pd.DataFrame({
@@ -69,7 +69,7 @@ period = pd.DataFrame({
 
 
 # Matplotlib actions
-If you have used matplotlib for a while, you probably know that there are two ways we create plots in matplotlib. The easy way (i.e., procedural programming), and OOP (object oriented). For this task, I use the OOP method just because it allows me to customize more things. If you are not familiar with the difference between OOP and procedural, you can tell by the code if you plot your data using `plt.plot(x,y)` that means you are using the non-OOP way.
+If you have used matplotlib for a while, you probably know that there are two ways we can create plots in matplotlib. The easy way (i.e., procedural programming), and OOP (object oriented). For this task, I use the OOP method just because it allows me to customize more things. If you are not familiar with the difference between OOP and procedural, you can tell by the code. If you plot your data using `plt.plot(x,y)` that means you are using the non-OOP way.
 
 ## Create figure, grid spec, and axes
 Since we are using the OOP way, we first need to initiate the canvas or the `figure` of our plot using the following line.
@@ -85,7 +85,9 @@ w = [1]
 h = [1, 0.1]
 {% endhighlight %}
 
-The next step is creating gridspec. Gridspec is a suite of classes and methods to customize the size of our axes in matplotlib. Commonly we would want to have our Chronostratigraphic units in a narrower axis compared to the data. There are many ways to use gridspec, but this one is my favorite because you do not need to import a separate `Gridspec` module.
+The next step is creating gridspec. Gridspec is a suite of classes and methods to customize the size of our axes in matplotlib. Commonly we would want to have our Chronostratigraphic units in a narrower axis compared to the data. 
+
+There are many ways we can use gridspec, but this one is my favorite because you do not need to import a separate `Gridspec` module.
 
 {% highlight python %}
 gs = fig.add_gridspec(ncols=1, nrows=2, width_ratios=w, height_ratios=h)
@@ -103,7 +105,7 @@ ax = fig.add_subplot(gs[0,0], sharex=ax0)
 # Plotting
 This is the main portion of the script and does the heavy lifting.
 ## Transform axis and height
-We first need to define the axis transform, of `ax0` so that we can define the placement more accurate. You can read more about axis transform in matplotlib [here](https://matplotlib.org/stable/users/explain/artists/transforms_tutorial.html). The next thing we need to do is calculate the height of the unit by substracting the base for the top of each unit. This is the part where using `pandas` to store the variables makes our life so much easier. When you plot the time scale in a portrait format you will also need to define the rotation, of your text here, but you can also do it in the main loop as well. Since we are making a landscape plot we do not need to define the rotation of the text at all.
+We first need to define the axis transform, of `ax0` so that we can define the placement more accurately. You can read more about axis transform in matplotlib [here](https://matplotlib.org/stable/users/explain/artists/transforms_tutorial.html). The next thing we need to do is calculate the height of the unit by substracting the base from the top of each unit. This is the part where using `pandas` to store the variables makes our life so much easier. When you plot the time scale in a portrait format you will also need to define the rotation, of your text here, or you can also do it in the main loop as well. However, since we are making a landscape plot, we do not need to define the rotation of the text at all.
 
 {% highlight python %}
 trans = ax0.get_xaxis_transform()
@@ -112,7 +114,7 @@ period['h'] = period['lower_boundary'] - period['upper_boundary']
 {% endhighlight %}
 
 ## The main loop
-This is the main loop that plot a bunch of rectangle to create our geologic time scale. The code is relatively more straightforward and somewhat self-explanatory.
+This is the main loop that plot a bunch of rectangles to create our geologic time scale. This part of code is somewhat self-explanatory.
 
 {% highlight python %}
 for ind in gts.index:
@@ -141,7 +143,7 @@ for ind in period.index:
 {% endhighlight %}
 
 ## Plot the data and show
-The last portion of the code is pretty standard. You just need to plot the data and labels your axes.
+The last portion of the code is pretty standard. You just need to plot the data and label your axes.
 {% highlight python %}
 x.scatter(time, data, ec='k', fc='orange', s=100,
            label='Dummy data')
@@ -159,8 +161,8 @@ plt.show()
 
 
 # The result
-Here is the plot that you should see if you get everything correct. You can get the full code [here](https://www.adtma.pw/blog/geotimescale-python/).
+Here is the plot that you should see if you get everything correct.
 
 ![geologic time scale python](https://user-images.githubusercontent.com/59095982/251918388-54b75d56-7d4b-4960-922c-523d75d65be6.png)
 
-Let me know if you have any questions. Cheers!
+You can get the full code [here](https://www.adtma.pw/blog/geotimescale-python/). As always, let me know if you have any questions. Cheers!

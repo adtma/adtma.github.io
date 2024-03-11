@@ -55,27 +55,27 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.adtma.pw"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mas_datu"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/datuadiatma"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/datuadiatma"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=9mauI8YAAAAJ&hl=en"
     - label: "Strava"
       icon: "fab fa-fw fa-strava"
       url: "https://www.strava.com/athletes/24362823"
-
-footer:
-  links:
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/datuadiatma"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/mas_datu"
+
+footer:
+  links:
+    - label: "Google Scholar"
+      icon: "fas fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=9mauI8YAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/datuadiatma"

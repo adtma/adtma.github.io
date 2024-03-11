@@ -2,7 +2,7 @@ main:
   - title: "Publications"
     url: /publications/
   - title: "CV"
-    url : https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf
+    url : /cv/
   - title: "Blog"
     url: /posts/
   #- title: "Categories"

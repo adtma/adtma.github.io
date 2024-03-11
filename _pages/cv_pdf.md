@@ -1,9 +1,9 @@
 ---
-permalink: /cv_pdf/
+permalink: /cv/
 title: "Curriculum Vitae"
 author_profile: true
 redirect_from: 
-  - /cv
+  - /cv_pdf
   - /cv.html
   - /resume
 ---

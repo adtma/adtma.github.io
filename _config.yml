@@ -1,4 +1,4 @@
-title: Datu Adiatma
+title: Datu Adiatma's Homepage
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Yoseph Datu Adiatma personal / profesional website.
@@ -67,9 +67,12 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/datuadiatma"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/mas_datu"
+    - label: "Threads"
+      icon: "fas fa-at"
+      url: "https://www.threads.net/@datuadiatma"
+#    - label: "Twitter"
+#      icon: "fab fa-fw fa-twitter-square"
+#      url: "https://twitter.com/mas_datu"
 
 footer:
   links:

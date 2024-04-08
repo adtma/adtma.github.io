@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a geologist with a deep interest in sedimentology, stratigraphy, chemostratigraphy, and isotope geochemistry. Sometimes, I also take on the role of a geochemical modeler, crunching numbers and creating visualizations using Python (or Matlab, but mostly Python).
+I am a geologist with a deep interest in sedimentology, stratigraphy, chemostratigraphy, and isotope geochemistry. Sometimes, I also take on the role of a geochemical modeler by crunching a lot of numbers and making plots using Python (or Matlab, but mostly Python).
 
 I was born and raised in Indonesia. I attended [Institut Teknologi Bandung](https://geology.fitb.itb.ac.id/) for my undergraduate degree in geology and the School of Earth Sciences at [Ohio State](https://earthsciences.osu.edu/) for my MS and PhD. Currently, I am a postdoctoral scholar at [FSU](https://www.eoas.fsu.edu/) and [MagLab](https://nationalmaglab.org/staff/?name=YosephAdiatma).
 

@@ -15,5 +15,5 @@ author_profile: true
 
 
 
-*If you do not have access to any of those papers, I can send them to you. You can send me a request on my [ResearchGate](https://www.researchgate.net/profile/Yoseph-Adiatma) or send me an email at adiatma[dot]1[at]osu[dot]edu.*
+*If you need a pdf copy of any of those papers, you can send me a request on my [ResearchGate](https://www.researchgate.net/profile/Yoseph-Adiatma) or send me an email at yadiatma[at]fsu[dot]edu.*
 {: .notice}

@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 **Manuscripts in review / in preparation**
+
 2) **Adiatma, Y.D.**, Saltzman, M.R., Liu, X-M., Wang, X-K., Edwards, C.T. Lithium isotope stratigraphy and Ordovician weathering. in review for *Earth and Planetary Science Letters*.
 
 1) **Adiatma, Y.D.**, Saltzman, M.R., Griffith, E.M. Calcium isotope constraints on a Middle Ordovician carbon isotope excursion. in review for *Earth and Planetary Science Letters*.
 
 **Peer-reviewed Publications**
+
 3) Avila, T.D., Saltzman, M.R., **Adiatma, Y.D.**, Joachimski, M.M., Griffith, E.M., Olesik, J.W., 2022. Role of seafloor production versus continental basalt weathering in Middle to Late Ordovician seawater 87Sr/86Sr and climate. *Earth and Planetary Science Letters* 593, 117641. [link](https://doi.org/10.1016/j.epsl.2022.117641)
 
 2) Conwell, C.T., Saltzman, M.R., Edwards, C.T., Griffith, E.M., **Adiatma, Y.D.**, 2022. Nd isotopic evidence for enhanced mafic weathering leading to Ordovician cooling. *Geology*. [link](https://doi.org/10.1130/G49860.1)

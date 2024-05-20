@@ -1,4 +1,5 @@
-title: "Datu"
+title: ""
+title_separator: "|"
 logo: "/assets/images/Signature_Thick.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"

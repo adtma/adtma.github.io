@@ -14,11 +14,11 @@ In my previoud [post](https://www.adtma.pw/blog/geotimescale-python/), I shared 
 ## Import
 The first few lines of the code import the required python packages/libraries to add gts.
 
-{% highlight python %}
+```python
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
-{% endhighlight %}
+```
 
 The three main libraries you need to import are: `numpy, matplotlib, and pandas`. Numpy's main job is to do array and matrix operations, whereas pandas' job is to store the information such as ages, color, etc. Matplotlib is our main workhorse (i.e., creating visualization and plots).
 

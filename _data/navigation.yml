@@ -6,7 +6,7 @@ main:
   - title: "Résumé"
     url : /cv/
   - title: "Blog"
-    url: /posts/
+    url: /blog/
   #- title: "Categories"
   #  url: /categories/
   #- title: "Tags"

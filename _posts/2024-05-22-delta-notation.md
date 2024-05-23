@@ -6,12 +6,8 @@ categories:
 tags:
   - geology
 ---
-One of the most tedious part of writing a manuscript in my field is the need to write geochemical notation. There is a lot of greek, chemical, or mathematical symbols that we use as notations. One of the most of common notation that I use in my writing is the delta notation \\( \delta \\). For instance, we use  to express the abundance of \\( ^{13}C \\) over $^{12}C$.
+One of the most tedious part of writing a manuscript in my field is the need to write geochemical notation. There is a lot of greek, chemical, or mathematical symbols that we use as notations. One of the most of common notation that I use in my writing is the delta notation (\\( \delta \\)). For instance, we use \\(\delta^{13}C\\) to express the abundance of \\(^{13}C\\) relative to \\(^{12}C\\). The formula to convert isotopic ratios to delta notation is shown below:
 
-
-\\[ \frac{1}{n^{2}} \\]
-
-
-$$\frac{1}{2}x=y^2$$
-
-test
+$$
+\delta^{13}C = \left \frac{^{13}C/^{12}C_{sample}}{13}C/^{12}C_{standard}} - 1 \right \times 1000
+$$

@@ -2,7 +2,7 @@
 title: 'Geochemical notations in MS Word'
 date: 2024-05-22
 categories:
-  - Blog
+  - blog
 tags:
   - geology
 ---

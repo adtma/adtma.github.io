@@ -43,6 +43,13 @@ analytics:
   google:
     tracking_id          : "G-LN6BF0WPLF"
     anonymize_ip         : # true, false (default)
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "adtma"
+
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate

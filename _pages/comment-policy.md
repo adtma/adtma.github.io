@@ -3,6 +3,7 @@ permalink: /comment-policy/
 title: "Comment guidelines and policy"
 last_modified_at: 2024-02-24T12:42:38-04:00
 toc: false
+author_profile: false
 ---
 
 Comments are welcomed and encouraged on this site, but there are some instances where comments will be edited or deleted as follows:

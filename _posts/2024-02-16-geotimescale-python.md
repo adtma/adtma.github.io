@@ -2,7 +2,7 @@
 title: 'Geology Time Scale in Matplotlib'
 date: 2024-02-16
 categories:
-  - Blog
+  - blog
 tags:
   - geology
   - python

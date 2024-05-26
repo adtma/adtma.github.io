@@ -1,5 +1,5 @@
 ---
-title: 'Enable MathJax in Jekyll'
+title: 'Enabling MathJax in Jekyll'
 date: 2024-05-26
 categories:
   - blog

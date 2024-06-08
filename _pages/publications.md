@@ -6,11 +6,12 @@ author_profile: true
 ---
 **Manuscripts in review / in preparation**
 
-2) **Adiatma, Y.D.**, Saltzman, M.R., Liu, X-M., Wang, X-K., Edwards, C.T. Lithium isotope stratigraphy and Ordovician weathering. in review for *Earth and Planetary Science Letters*.
+1) **Adiatma, Y.D.**, Saltzman, M.R., Liu, X-M., Wang, X-K., Edwards, C.T. Lithium isotope stratigraphy and Ordovician weathering. in revision for *Earth and Planetary Science Letters*.
 
-1) **Adiatma, Y.D.**, Saltzman, M.R., Griffith, E.M. Calcium isotope constraints on a Middle Ordovician carbon isotope excursion. in review for *Earth and Planetary Science Letters*.
 
 **Peer-reviewed Publications**
+
+4) **Adiatma, Y.D.**, Saltzman, M.R., Griffith, E.M. Calcium isotope constraints on a Middle Ordovician carbon isotope excursion. *Earth and Planetary Science Letters* 641, 118805. [link](https://doi.org/10.1016/j.epsl.2024.118805)
 
 3) Avila, T.D., Saltzman, M.R., **Adiatma, Y.D.**, Joachimski, M.M., Griffith, E.M., Olesik, J.W., 2022. Role of seafloor production versus continental basalt weathering in Middle to Late Ordovician seawater 87Sr/86Sr and climate. *Earth and Planetary Science Letters* 593, 117641. [link](https://doi.org/10.1016/j.epsl.2022.117641)
 

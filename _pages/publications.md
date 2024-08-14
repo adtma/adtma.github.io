@@ -4,10 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-**Manuscripts in review / in preparation**
-
-1) **Adiatma, Y.D.**, Saltzman, M.R., Liu, X-M., Wang, X-K., Edwards, C.T. Lithium isotope stratigraphy and Ordovician weathering. in revision for *Earth and Planetary Science Letters*.
-
 
 **Peer-reviewed Publications**
 
@@ -20,6 +16,11 @@ author_profile: true
 1) **Adiatma, Y.D.**, Saltzman, M.R., Young, S.A., Griffith, E.M., Kozik, N.P., Edwards, C.T., Leslie, S.A., Bancroft, A.M., 2019. Did early land plants produce a stepwise change in atmospheric oxygen during the Late Ordovician (Sandbian ~458 Ma)? *Palaeogeography, Palaeoclimatology, Palaeoecology* 534, 109341. [link](https://doi.org/10.1016/j.palaeo.2019.109341)
 
 
+**Manuscripts in review / in preparation**
+
+1) **Adiatma, Y.D.**, Saltzman, M.R., Liu, X-M., Wang, X-K., Edwards, C.T. Lithium isotope stratigraphy and Ordovician weathering. in revision for *Earth and Planetary Science Letters*.
+
+2) Wang, X-K., Liu, X-M., Husinec, A., Cao, C., Dera, G., **Adiatma, Y. D.**, Lithium isotope evidence for enhanced hydrothermal activity in the Jurassic. in review for *Earth and Planetary Science Letters*.
 
 
 

@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Datu Adiatma"
   avatar : "/assets/images/SquareProfPic.jpg"
-  bio    : "Geologist<br>Postdoc at FSU EOAS & MagLab"
+  bio    : "Geologist<br>Postdoc at<br>FSU EOAS & MagLab"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

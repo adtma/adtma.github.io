@@ -4,7 +4,7 @@ logo: "/assets/images/Signature_Thick.png"
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Yoseph Datu Adiatma personal / profesional website.
-  I am a geologist with expertise in geochemistry
+  I am a geologist with expertise in isotope geochemistry
   sedimentology, and stratigraphy.
 twitter_username: mas_datu
 github_username: datuadiatma
@@ -62,7 +62,7 @@ plugins:
 author:
   name   : "Datu Adiatma"
   avatar : "/assets/images/SquareProfPic.jpg"
-  bio    : "Geologist<br>Chemostratigrapher"
+  bio    : "Geologist<br>Postdoc at FSU EOAS & MagLab"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"

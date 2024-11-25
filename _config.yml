@@ -64,6 +64,9 @@ author:
   avatar : "/assets/images/SquareProfPic.jpg"
   bio    : "Geologist<br>Postdoc at FSU<br>EOAS & MagLab"
   links:
+    - label: "(E)-Mail"
+      icon: "fa-solid fa-envelope"
+      url: "https://www.adtma.pw/contact"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.adtma.pw"
@@ -82,9 +85,7 @@ author:
     - label: "Threads"
       icon: "fas fa-at"
       url: "https://www.threads.net/@datuadiatma"
-    - label: "(e)Mail"
-      icon: "fa-solid fa-envelope"
-      url: "https://www.adtma.pw/contact"
+
 
 footer:
   links:

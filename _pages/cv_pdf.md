@@ -7,7 +7,7 @@ redirect_from:
   - /cv.html
   - /resume
 ---
-If your browser does not display the file correctly, you can download the pdf file [here](https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf).
+If your browser does not display the file correctly, you can download the pdf file [here](https://www.adtma.pw/assets/pdfs/AdiatmaCV.pdf).
 
 
-<embed src="https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf" width="500" height="500" type='application/pdf'>
+<embed src="https://www.adtma.pw/assets/pdfs/AdiatmaCV.pdf" width="500" height="500" type='application/pdf'>

@@ -7,6 +7,8 @@ author_profile: true
 
 **Peer-reviewed Publications**
 
+5) **Adiatma, Y.D.**, Saltzman, M.R., Liu, X-M., Wang, X-K., Edwards, C.T. Lithium isotope stratigraphy and Ordovician weathering. *Earth and Planetary Science Letters* 647. 119030. [link](https://doi.org/10.1016/j.epsl.2024.119030)
+
 4) **Adiatma, Y.D.**, Saltzman, M.R., Griffith, E.M. Calcium isotope constraints on a Middle Ordovician carbon isotope excursion. *Earth and Planetary Science Letters* 641, 118805. [link](https://doi.org/10.1016/j.epsl.2024.118805)
 
 3) Avila, T.D., Saltzman, M.R., **Adiatma, Y.D.**, Joachimski, M.M., Griffith, E.M., Olesik, J.W., 2022. Role of seafloor production versus continental basalt weathering in Middle to Late Ordovician seawater 87Sr/86Sr and climate. *Earth and Planetary Science Letters* 593, 117641. [link](https://doi.org/10.1016/j.epsl.2022.117641)
@@ -18,9 +20,7 @@ author_profile: true
 
 **Manuscripts in review / in preparation**
 
-1) **Adiatma, Y.D.**, Saltzman, M.R., Liu, X-M., Wang, X-K., Edwards, C.T. Lithium isotope stratigraphy and Ordovician weathering. in revision for *Earth and Planetary Science Letters*.
-
-2) Wang, X-K., Liu, X-M., Husinec, A., Cao, C., Dera, G., **Adiatma, Y. D.**, Lithium isotope evidence for enhanced hydrothermal activity in the Jurassic. in review for *Earth and Planetary Science Letters*.
+1) Wang, X-K., Liu, X-M., Husinec, A., Cao, C., Dera, G., **Adiatma, Y. D.**, Lithium isotope evidence for enhanced hydrothermal activity in the Jurassic. in review for *Earth and Planetary Science Letters*.
 
 
 

@@ -5,7 +5,7 @@ last_modified_at: 2024-11-25T12:42:38-04:00
 toc: false
 ---
 
-### Mailing Address
+Mailing Address
 ```bash
 Y. Datu Adiatma, Ph.D.
 
@@ -17,7 +17,7 @@ Tallahassee, FL, 32306-4520
 USA
 ```
 
-### Email
+Email
 ```bash
 yadiatma[at]fsu[dot]edu
 ```

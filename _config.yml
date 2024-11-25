@@ -64,7 +64,7 @@ author:
   avatar : "/assets/images/SquareProfPic.jpg"
   bio    : "Geologist<br>Postdoc at FSU<br>EOAS & MagLab"
   links:
-    - label: "(E)-Mail"
+    - label: "Contact"
       icon: "fa-solid fa-envelope"
       url: "https://www.adtma.pw/contact"
     - label: "Website"

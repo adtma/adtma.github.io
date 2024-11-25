@@ -82,9 +82,9 @@ author:
     - label: "Threads"
       icon: "fas fa-at"
       url: "https://www.threads.net/@datuadiatma"
-#    - label: "Twitter"
-#      icon: "fab fa-fw fa-twitter-square"
-#      url: "https://twitter.com/mas_datu"
+    - label: "(e)Mail"
+      icon: "fa-solid fa-envelope"
+      url: "https://www.adtma.pw/contact"
 
 footer:
   links:

@@ -76,6 +76,9 @@ author:
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=9mauI8YAAAAJ&hl=en"
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/datu.bsky.social"
     - label: "Strava"
       icon: "fab fa-fw fa-strava"
       url: "https://www.strava.com/athletes/24362823"
@@ -89,15 +92,18 @@ author:
 
 footer:
   links:
+    - label: "Contact"
+      icon: "fa-solid fa-envelope"
+      url: "https://www.adtma.pw/contact"
     - label: "Google Scholar"
       icon: "fas fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=9mauI8YAAAAJ&hl=en"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/datuadiatma"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/datuadiatma"
+    - label: "Bluesky"
+      icon: "fa-brands fa-bluesky"
+      url: "https://bsky.app/profile/datu.bsky.social"
 
 defaults:
   # _posts

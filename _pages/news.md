@@ -1,8 +1,7 @@
 ---
 title: News
-layout: collection
+layout: archieve
 permalink: /news/
 collection: news
-entries_layout: grid  # or 'list' if you prefer
-classes: wide
+entries_layout: list
 ---

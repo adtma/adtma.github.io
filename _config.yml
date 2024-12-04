@@ -130,7 +130,7 @@ defaults:
    defaults:
   # _news
   - scope:
-      path: ""
+      path: "_news"
       type: news
     values:
       layout: single

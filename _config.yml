@@ -127,6 +127,16 @@ defaults:
       comments: false
       share: false
       related: false
+   defaults:
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+      share: true
+
 
 category_archive:
   type: liquid

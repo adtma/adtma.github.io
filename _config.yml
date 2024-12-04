@@ -127,10 +127,9 @@ defaults:
       comments: false
       share: false
       related: false
-   defaults:
   # _news
   - scope:
-      path: "_news"
+      path: ""
       type: news
     values:
       layout: single

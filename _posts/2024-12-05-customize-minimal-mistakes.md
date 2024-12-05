@@ -24,7 +24,7 @@ For the better solution, you need to:
 3. Copy the original masthead code and comment out the title section
 
 The key part to comment out is:
-```liquid
+```html
 {% comment %}
 <a class="site-title" href="{{ '/' | relative_url }}">
   {{ site.masthead_title | default: site.title }}

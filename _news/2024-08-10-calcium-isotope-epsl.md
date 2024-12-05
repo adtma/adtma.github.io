@@ -1,5 +1,5 @@
 ---
-title: "Cracking the Code of an Ordovician-aged Positive Carbon Isotope Shift"
+title: "New Paper on Ordovician Carbon Isotope Shift"
 excerpt: "Our latest research on Calcium isotope stratigraphy has been published"
 date: 2024-08-10
 ---

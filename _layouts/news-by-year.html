@@ -4,6 +4,14 @@ layout: archive
 
 {{ content }}
 
+<!-- Debug section -->
+<div style="color: red;">
+  Number of news items: {{ site.news.size }}
+  {% for item in site.news %}
+    <p>Found: {{ item.title }} ({{ item.date }})</p>
+  {% endfor %}
+</div>
+
 {% assign entries_by_year = site.news | sort: 'date' | reverse | group_by_exp: "news", "news.date | date: '%Y'" %}
 {% for year in entries_by_year %}
   <section id="{{ year.name }}" class="taxonomy__section">

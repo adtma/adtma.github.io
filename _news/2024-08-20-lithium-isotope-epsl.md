@@ -1,7 +1,7 @@
 ---
 title: "New Paper: Tracking Ancient Silicate Weathering using Lithium Isotope Stratigraphy"
-excerpt: "Our latest research on lithium isotope stratigraphy has been published"
 date: 2024-08-20
+excerpt: "Our latest research on lithium isotope stratigraphy has been published"
 ---
 I'm excited to share our latest paper published in Earth and Planetary Science Letters where we explored how Earth's climate and weathering patterns changed during the Ordovician Period (about 487-443 million years ago) using lithium isotopes preserved in ancient rocks.
 

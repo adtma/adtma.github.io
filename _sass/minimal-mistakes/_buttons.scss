@@ -100,8 +100,15 @@
 .btn--bluesky {
   background-color: #0085ff;
   color: #fff;
+  border: 0;
+  border-radius: 4px;
+  
+  &:visited {
+    color: #fff;
+  }
+  
   &:hover {
-    background-color: #006acc;  // This is a slightly darker shade of the Bluesky blue
+    background-color: #006acc;
     color: #fff;
   }
 }

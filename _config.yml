@@ -86,7 +86,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/datuadiatma"
     - label: "Threads"
-      icon: "fas fa-at"
+      icon: "fa-brands fa-threads"
       url: "https://www.threads.net/@datuadiatma"
 
 

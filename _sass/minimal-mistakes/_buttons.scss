@@ -98,5 +98,10 @@
 }
 
 .btn--bluesky {
-  @include yiq-contrasted($bluesky-color);
+  background-color: #0085ff;
+  color: #fff;
+  &:hover {
+    background-color: #006acc;  // This is a slightly darker shade of the Bluesky blue
+    color: #fff;
+  }
 }

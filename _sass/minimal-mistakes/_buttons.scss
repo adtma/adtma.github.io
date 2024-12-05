@@ -40,6 +40,7 @@
   (facebook, $facebook-color),
   (twitter, $twitter-color),
   (bluesky, $bluesky-color),
+  (reddit, $reddit-color),
   (linkedin, $linkedin-color);
 
   @each $buttoncolor, $color in $buttoncolors {
@@ -94,21 +95,5 @@
   /* small button */
   &--small {
     font-size: $type-size-7;
-  }
-}
-
-.btn--bluesky {
-  background-color: #0085ff;
-  color: #fff;
-  border: 0;
-  border-radius: 4px;
-  
-  &:visited {
-    color: #fff;
-  }
-  
-  &:hover {
-    background-color: #006acc;
-    color: #fff;
   }
 }

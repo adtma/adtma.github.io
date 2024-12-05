@@ -15,10 +15,10 @@ I recently spent some time customizing my Jekyll website using Minimal Mistakes 
 
 First thing I wanted to do was get rid of that site title in the header - you know, that text that shows up in the upper left corner? There are actually two ways to do this:
 
-1. The CSS way - adding some code to `main.scss`. This works but isn't the best solution.
+1. The CSS way - adding some code to `main.scss`. This works but I was hesitant in trying this option at first.
 2. The better way - modifying the masthead template directly.
 
-For the better solution, you need to:
+To do the second option, you need to:
 1. Create an `_includes` folder in your root directory
 2. Create a `masthead.html` file inside it
 3. Copy the original masthead code and comment out the title section
@@ -31,6 +31,27 @@ The key part to comment out is:
   {% if site.subtitle %}<span class="site-subtitle">{{ site.subtitle }}</span>{% endif %}
 </a>
 {% endcomment %}
+```
+
+This is a neat solution however, modifying the masthead file directly affects the behavior of the navigation bar in the mobile mode. So I ended up modifying the css file. The reason I was hesitant in going with this route is that I now have to regularly checking the `main.scss` file of the repository in case the theme maintainers make some updates.
+
+Here are the steps to hide the masthead title using the css route:
+1. locate the `main.scss` file
+2. add these lines at the end of the file:
+
+```html
+// Custom styles
+.site-title {
+  visibility: hidden; // or display: none;
+  position: absolute; // This helps maintain layout while hidden
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0,0,0,0);
+  border: 0;
+}
 ```
 
 ### Adding a News Collection

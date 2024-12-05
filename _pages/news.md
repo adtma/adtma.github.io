@@ -1,6 +1,6 @@
 ---
 title: News
-layout: collection
+layout: post
 permalink: /news/
 collection: news
 entries_layout: list

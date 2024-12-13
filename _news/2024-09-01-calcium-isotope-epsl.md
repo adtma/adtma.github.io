@@ -9,8 +9,10 @@ I'm excited to share our new paper just published in Earth and Planetary Science
 
 Working with rocks from Nevada, we used calcium isotopes and other geochemical tools to figure out what caused this carbon isotope shift (known as the MDICE - Mid-Darriwilian Carbon Isotope Excursion). The big question was: did this shift reflect real changes in Earth's carbon cycle, or was it just an artifact of how the rocks formed and changed over time?
 
-
-![Chemostratigraphic Profile Ca Ordovician]({{ site.url }}{{ site.baseurl }}/assets/images/CaOrdoEPSL.jpg)
+<figure>
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/CaOrdoEPSL.jpg" alt="">
+  <figcaption>Chemostratigraphic profile of the Meiklejohn Peak Section (Nevada, USA).</figcaption>
+</figure> 
 
 Our results suggest it's actually a bit of both! While some of the signal comes from changes in how the rocks formed and were altered over time, there's still a significant portion that likely reflects real changes in Earth's carbon cycle. We think this might be linked to increased weathering of rocks during mountain building (the Taconic orogeny), which could have delivered more nutrients to the oceans and boosted marine productivity.
 

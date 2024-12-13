@@ -11,13 +11,12 @@ Lithium isotopes in rocks are like nature's weathering thermometer - they can te
 
 ### What did we find?
 
+By analyzing rocks from six different locations across what was once Laurentian paleo-continent, we found evidence for a major shift in how rocks were being weathered during the Early Ordovician. Specifically, we saw a change toward what commonly known as "congruent weathering" - a style of weathering that was likely more efficient at consuming CO2.
+
 <figure class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/LiOrdoEPSL.jpg" alt="">
-  <figcaption>Ordovician lithium isotope data showing a negative shift during the Early Ordovician Period, and the results of the stochastic Li mass balance model. The solution space is shown as lines and error bands. The lines and error bands represent the mean and standard deviations of solutions in each timestep respectively.</figcaption>
+  <figcaption>Ordovician lithium isotope data showing a negative shift during the Early Ordovician Period, and the results of the stochastic Li mass balance model.</figcaption>
 </figure> 
-
-
-By analyzing rocks from six different locations across what was once Laurentian paleo-continent, we found evidence for a major shift in how rocks were being weathered during the Early Ordovician. Specifically, we saw a change toward what commonly known as "congruent weathering" - a style of weathering that was likely more efficient at consuming CO2.
 
 This shift coincided with some big changes in Earth's paleogeography, including the movement of volcanic islands (the Taconic Arc) into the tropics where weathering is typically more intense. We think this geographical change, combined with the early evolution of primitive land plants, may have helped drive global cooling during this time.
 
@@ -27,4 +26,4 @@ This work helps us better understand how Earth regulated its climate in the deep
 
 You can read the full paper here: [Lithium isotope stratigraphy and Ordovician weathering](https://doi.org/10.1016/j.epsl.2024.119030)
 
-A huge thanks to my co-authors and everyone who helped with this research! This work was supported by the Ohio State University School of Earth Sciences and the Geological Society of America's [Charles A and June R. P. Ross Research Award](https://gsa-foundation.org/fund/charles-a-and-june-r-p-ross-award/).
+A huge thanks to my co-authors and everyone who helped with this research! This work was supported by the Ohio State University School of Earth Sciences and the Geological Society of America's [Charles A and June R. P. Ross Research Award](https://gsa-foundation.org/fund/charles-a-and-june-r-p-ross-award/) for research in biostratigraphy, stratigraphy and stratigraphic correlation.

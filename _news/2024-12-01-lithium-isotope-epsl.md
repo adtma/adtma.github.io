@@ -7,11 +7,15 @@ I'm excited to share our latest paper published in Earth and Planetary Science L
 
 ### What's the big deal about lithium?
 
-Lithium isotopes in rocks are like nature's weathering thermometer - they can tell us about how intensely rocks were being broken down by chemical weathering in the past. This is super important because weathering of rocks is one of Earth's main ways of removing CO2 from the atmosphere over long timescales.
+Lithium isotopes in rocks are like nature's weathering thermometer - they can tell us about how intensely rocks were being broken down by chemical weathering in the past. This is super important because weathering of rocks is one of Earth's main ways of removing CO<sub>2</sub> from the atmosphere over long timescales.
 
-### What did we find?**
+### What did we find?
 
-![Ordovician lithium isotope data showing a negative shift during the Early Ordovician Period]({{ site.url }}{{ site.baseurl }}/assets/images/LiOrdoEPSL.jpg)
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/LiOrdoEPSL.jpg" alt="">
+  <figcaption>Ordovician lithium isotope data showing a negative shift during the Early Ordovician Period, and the results of the stochastic Li mass balance model. The solution space is shown as lines and error bands. The lines and error bands represent the mean and standard deviations of solutions in each timestep respectively.</figcaption>
+</figure> 
+
 
 By analyzing rocks from six different locations across what was once Laurentian paleo-continent, we found evidence for a major shift in how rocks were being weathered during the Early Ordovician. Specifically, we saw a change toward what commonly known as "congruent weathering" - a style of weathering that was likely more efficient at consuming CO2.
 

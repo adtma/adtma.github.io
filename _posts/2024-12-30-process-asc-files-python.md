@@ -93,9 +93,9 @@ IDLE is Python's built-in editor that comes with your Python installation. It's 
 The script will guide you through the process with pop-up windows:
 
 1. First, it'll ask if you're processing Total Digest or Iodine Calcium samples
-2. Then, you can select ASC files from multiple folders
-3. Choose where to save your output files
-4. Optionally, provide calibration data if you want to calculate concentrations
+2. Then, you can select ASC files from multiple folders. Select only the *summary* ASC files.
+3. Choose where to save your output files, and the file name.
+4. Optionally, provide calibration data if you want to calculate concentrations.
 
 ### Understanding the Output Files
 
@@ -137,4 +137,4 @@ This script is pretty robust, but if you run into any issues or have questions, 
 
 ---
 
-*Note: This guide assumes you're working with ASC files from a Thermo Element2 sector field ICP MS, using the method that I setup on (YDA_Trace_Metal.met or YDA_I_Ca.met). You might need to modify the script if your instrument outputs files in a different format.*
+*Note: This guide assumes you're working with ASC files from a Thermo Element2 sector field ICP MS, using the method that I setup (YDA_Trace_Metal.met or YDA_I_Ca.met) and the `SSK` output format. You might need to modify the script if your instrument outputs files in a different format.*

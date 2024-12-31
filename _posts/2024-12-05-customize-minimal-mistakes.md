@@ -2,11 +2,11 @@
 title: "How to Customize Minimal Mistakes Theme: Personal Notes"
 date: 2024-12-05
 categories:
-  - Blog
+  - blog
 tags:
-  - Jekyll
-  - Web Development
-  - Minimal Mistakes
+  - jekyll
+  - web development
+  - minimal mistakes
 ---
 
 I recently spent some time customizing my Jekyll website using Minimal Mistakes theme and learned a few neat tricks. Here's what I figured out:

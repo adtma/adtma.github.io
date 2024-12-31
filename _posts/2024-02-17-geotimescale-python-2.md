@@ -6,6 +6,7 @@ categories:
 tags:
   - geology
   - python
+  - tutorial
 toc: true
 ---
 In my previoud [post](https://www.adtma.pw/blog/geotimescale-python/), I shared my "go-to" python script to add a geologic time scale (gts) on my matplotlib plot. In this post I am going to give a more detailed explanation of the scripts. You can jump to any sections of this post using the `on this page panel`.

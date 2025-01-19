@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a geologist with interest in sedimentary geochemistry, sedimentology, and stratigraphy. Sometimes, I also take on the role of a geochemical modeler by crunching a lot of numbers and making plots using Python (or Matlab, but mostly Python).
+I am a geologist with interest in sedimentary geochemistry, sedimentology, and stratigraphy. Sometimes, I also take on the role of a geochemical modeler.
 
 I was born and raised in Indonesia. I attended [Institut Teknologi Bandung](https://geology.fitb.itb.ac.id/) for my undergraduate degree in geology and the School of Earth Sciences at [Ohio State](https://earthsciences.osu.edu/) for my MS and PhD. Currently, I am a postdoctoral scholar at [Florida State University Department of Earth, Ocean & Atmospheric Science (EOAS)](https://www.eoas.fsu.edu/) and [National High Magnetic Field Laboratory (MagLab)](https://nationalmaglab.org/staff/?name=YosephAdiatma).
 

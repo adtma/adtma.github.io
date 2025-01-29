@@ -7,7 +7,7 @@ tags:
   - linux
   - debian
 ---
-I recently ran into a super annoying issue with my Debian machine. You see, I use this machine to run climate models that can take hours or even days to complete. But my system had other plans - it kept trying to go to sleep every a couple of minutes if it's idle!
+I recently ran into a super annoying issue with my Debian machine. I use this machine to run climate models that can take hours or even days to complete. But my system had other plans - it kept trying to go to sleep every a couple of minutes if it's idle!
 
 I tried all the usual stuff from the main documentation - clicking through the GNOME settings, trying to find that elusive power management option, but nothing seemed to work. The machine just kept threatening to suspend itself with those persistent notifications.
 

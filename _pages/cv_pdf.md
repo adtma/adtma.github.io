@@ -11,7 +11,7 @@ If your browser does not display the file correctly, you can download the pdf fi
 
 
 <div style="width: 100%; height: 80vh;">
-  <iframe src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/web/viewer.html?file=https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf" 
+  <iframe src="https://docs.google.com/viewer?url=https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf&embedded=true" 
     width="100%" 
     height="100%" 
     style="border: none;">

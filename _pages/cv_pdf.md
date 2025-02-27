@@ -7,13 +7,7 @@ redirect_from:
   - /cv.html
   - /resume
 ---
-If your browser does not display the file correctly, you can download the pdf file [here](https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf).
-
-
-<div style="width: 100%; height: 80%;">
-  <iframe src="https://docs.google.com/viewer?url=https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf&embedded=true" 
-    width="100%" 
-    height="100%" 
-    style="border: none;">
-  </iframe>
-</div>
+<object data="https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf" type="application/pdf" width="100%" style="height:80vh;">
+  <p>It appears you don't have a PDF plugin for this browser.
+  <a href="https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf">Click here to download the PDF file.</a></p>
+</object>

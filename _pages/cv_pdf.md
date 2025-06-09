@@ -7,7 +7,7 @@ redirect_from:
   - /cv.html
   - /resume
 ---
-If you don't have a PDF plugin for this browser, you can download the pdf file [here](https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf).
+If you don't have a PDF plugin for this browser, you can download the pdf file [here](https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf). Alternatively, you can access my full CV using think [link](https://www.adtma.pw/adiatmacv/).
 
 <object data="https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf" type="application/pdf" width="100%" style="height:50vh;">
   <p>It appears you don't have a PDF plugin for this browser.

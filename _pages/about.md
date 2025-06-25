@@ -6,9 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-![image-right](/assets/images/Profpic_Utah.png){: .align-right}
-
 I am a geologist with interest in sedimentary geochemistry, sedimentology, and stratigraphy. Sometimes, I also take on the role of a geochemical modeler.
 
 

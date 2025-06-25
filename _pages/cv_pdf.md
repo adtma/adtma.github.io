@@ -10,16 +10,20 @@ redirect_from:
 If you don't have a PDF plugin for this browser, you can download the pdf file [here for résumé](https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf) and  [here for my full CV](https://www.adtma.pw/assets/pdfs/AdiatmaFullCV.pdf).
 
 ## Résumé
-<div style="clear: both; margin-bottom: 30px;">
-<object data="https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf" type="application/pdf" width="100%" style="height:800px; display: block;">
+
+<div markdown="0">
+<object data="https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf" type="application/pdf" width="100%" height="600px" style="margin-bottom: 30px;">
   <p>It appears you don't have a PDF plugin for this browser.
   <a href="https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf">Click here to download the PDF file.</a></p>
 </object>
 </div>
 
+<div style="height: 50px;"></div>
+
 ## CV
-<div style="clear: both; margin-top: 30px;">
-<object data="https://www.adtma.pw/assets/pdfs/AdiatmaFullCV.pdf" type="application/pdf" width="100%" style="height:800px; display: block;">
+
+<div markdown="0">
+<object data="https://www.adtma.pw/assets/pdfs/AdiatmaFullCV.pdf" type="application/pdf" width="100%" height="600px" style="margin-top: 30px;">
   <p>It appears you don't have a PDF plugin for this browser.
   <a href="https://www.adtma.pw/assets/pdfs/AdiatmaFullCV.pdf">Click here to download the PDF file.</a></p>
 </object>

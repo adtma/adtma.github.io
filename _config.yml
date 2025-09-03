@@ -116,8 +116,8 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
-      teaser: "/assets/images/teaser_1.png"
+      related: false
+      teaser: /assets/images/teaser_1.png
   # _pages
   - scope:
       path: "_pages"

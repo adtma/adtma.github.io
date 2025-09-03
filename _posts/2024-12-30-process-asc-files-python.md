@@ -137,4 +137,4 @@ This script is pretty robust, but if you run into any issues or have questions, 
 
 ---
 
-*Note: This guide assumes you're working with ASC files from a Thermo Element2 sector field ICP MS, using the method that I setup (YDA_Trace_Metal.met or YDA_I_Ca.met) and the `SSK` output format. You might need to modify the script if your instrument outputs files in a different format.*
+*Note: This guide assumes you're working with ASC files from a Thermo Element2 sector field ICP MS, using the method that I setup (YDA_Trace_Metal.met or YDA_I_Ca.met) and the `Datu_Report` output format. You might need to modify the script if your instrument outputs files in a different format.*

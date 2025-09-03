@@ -9,7 +9,7 @@ tags:
   - Zotfile
   - Zotmoov
 ---
-One of the best decisions I made during grad school was learning to use Zotero early in my Master's program. This game-changing application has saved me hours, probably days, of time organizing bibliographies for my papers. Zotero is literally the first application I install on any new computer or laptop. I first discovered it through [Pak Erwin](https://dasaptaerwin.notion.site/DASAPTA-ERWIN-SHORT-BIO-600a09a192c344609d685064ad014674) when I was an undergraduate student at ITB.
+One of the best decisions I made during grad school was learning to use Zotero early in my Master's program. This game-changing application has saved me hours, probably days, of time organizing bibliographies for my papers. Zotero will always be the first application I install on any new computer or laptop. I first discovered it through [one of my professors](https://dasaptaerwin.notion.site/DASAPTA-ERWIN-SHORT-BIO-600a09a192c344609d685064ad014674).
 
 Recently, my PI gave me an iMac for my office at EOAS FSU. I installed all my usual software, including Zotero. But shortly after finishing the setup, I discovered a problem with my installation. Beyond managing citations and creating bibliographies, I use Zotero to organize PDF files of scientific papers across my computers. I sync this folder through OneDrive between my personal laptop and work machines, using an add-on called Zotfile to manage PDFs within Zotero. The latest version of Zotero I installed on the work iMac, however, no longer supports Zotfile. This meant I couldn't access any of the PDF files stored in my Zotero library.
 

@@ -22,6 +22,11 @@ author_profile: true
 
 1) Wang, X-K., Liu, X-M., Husinec, A., Cao, C., Dera, G., **Adiatma, Y. D.**, Lithium isotope evidence for enhanced hydrothermal activity in the Jurassic. in review.
 
+2) **Adiatma, Y.D.**, Lindskog, A., Fravel, M.S., Crissey, J.T., Schwartz, M., White, G.A., Ahlberg, P., Owens, J.D., Young, S.A., Oscillatory paleoredox conditions during the early Paleozoic. in prepartion.
+
+3) Haber, P.C., Griffith, E.M., Fantle, M.S., **Adiatma, Y.D.**, Saltzman, M.R., Calcium isotope constraints on an Early Mississippian carbon isotope excursion. in preparation.
+
+
 
 
 *If you need a pdf copy of any of those papers, you can send me a request on my [ResearchGate](https://www.researchgate.net/profile/Yoseph-Adiatma) or send me an email at yadiatma[at]fsu[dot]edu.*

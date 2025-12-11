@@ -44,7 +44,7 @@ This happened because the NetCDF module was built against OpenSSL 1.0, which exi
 ### Steps used to compile OpenSSL 1.0.2u
 
 ```bash
-wget https://www.openssl.org/source/old/1.0.2/openssl-1.0.2u.tar.gz
+wget https://github.com/openssl/openssl/releases/download/OpenSSL_1_0_2u/openssl-1.0.2u.tar.gz
 tar xzf openssl-1.0.2u.tar.gz
 cd openssl-1.0.2u
 

@@ -9,7 +9,7 @@ redirect_from:
 I am a geologist with interest in sedimentary geochemistry, stratigraphy, paleoceanography, and biogeochemistry. Sometimes, I also take on the role of a geochemical modeler.
 
 
-I was born and raised in Indonesia. I attended [Institut Teknologi Bandung](https://geology.fitb.itb.ac.id/) for my undergraduate degree in geology and the School of Earth Sciences at [Ohio State](https://earthsciences.osu.edu/) for my MS and PhD. Currently, I am a postdoctoral scholar at [Florida State University Department of Earth, Ocean & Atmospheric Science (EOAS)](https://www.eoas.fsu.edu/people/postdocs/) and [National High Magnetic Field Laboratory (MagLab)](https://nationalmaglab.org/staff/?name=YosephAdiatma).
+I was born and raised in Indonesia. I attended [Institut Teknologi Bandung](https://geology.fitb.itb.ac.id/) for my undergraduate degree in geology and the School of Earth Sciences at [Ohio State](https://earthsciences.osu.edu/) for my MS and PhD. Currently, I am a postdoctoral scholar at [Florida State University Department of Earth, Ocean & Atmospheric Science (EOAS)](https://www.eoas.fsu.edu/people/postdocs/).
 
 My research centers in reconstructing changes in geologic, paleoceanographic, and paleoclimate processes using geochemical proxies and their roles in shaping the macro-evolution of life on Earth. Overall, my research questions are at the intersection between geology (*sedimentology, stratigraphy, geochemistry*), paleoceanography, paleoclimatology, and deep-time biogeochemistry.
 

@@ -1,5 +1,6 @@
 ---
 permalink: /resume/
+classes: wide
 title: "Résumé and CV"
 author_profile: true
 redirect_from: 

@@ -8,7 +8,7 @@ excerpt: >
     __Postdoctoral Scholar__ <br />
     <small>Dept. of Earth Ocean and Atmospheric Science</small> <br>
     <small>National High Magnetic Field Laboratory</small> <br>
-    <small>University of Bristol</small>
+    <small>Florida State University</small>
 author_profile: true
 ---
 

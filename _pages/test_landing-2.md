@@ -3,7 +3,7 @@ layout: single
 permalink: /testlanding2
 header:
   overlay_filter: "0.3"
-  overlay_image: /assets/images/headers/appalachia-bw.jpg
+  overlay_image: /assets/images/headers/appalachia-bw-lean.jpg
 excerpt: >
     __Postdoctoral Scholar__ <br />
     <small>Dept. of Earth Ocean and Atmospheric Science</small> <br>

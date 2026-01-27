@@ -21,14 +21,14 @@ LOESS is a non-parametric regression method that fits a smooth curve through you
 The add-in works on both Windows and Mac.
 
 **Windows:**
-1. Download `LOESS.xlam` from the [GitHub repository](https://github.com/yourusername/loess-excel)
+1. Download `LOESS.xlam` from the [GitHub repository](https://github.com/datuadiatma/loess-excel)
 2. Open Excel and go to File → Options → Add-ins
 3. Select "Excel Add-ins" from the dropdown at the bottom and click "Go..."
 4. Click "Browse" and select the downloaded `LOESS.xlam` file
 5. Check the box next to "LOESS" and click OK
 
 **Mac:**
-1. Download `LOESS.xlam` from the [GitHub repository](https://github.com/yourusername/loess-excel)
+1. Download `LOESS.xlam` from the [GitHub repository](https://github.com/datuadiatma/loess-excel)
 2. Open Excel and go to Tools → Excel Add-ins
 3. Click "Browse" and select the downloaded `LOESS.xlam` file
 4. Check the box next to "LOESS" and click OK
@@ -66,6 +66,6 @@ The key thing to remember is that LOESS returns an array, so you need to select 
 
 ## Get the Add-in
 
-The add-in is available on GitHub: [github.com/yourusername/loess-excel](https://github.com/yourusername/loess-excel)
+The add-in is available on GitHub: [github.com/datuadiatma/loess-excel](https://github.com/datuadiatma/loess-excel)
 
 All credit for the original VBA implementation goes to Jon Peltier. I've simply packaged it for easier distribution and use.

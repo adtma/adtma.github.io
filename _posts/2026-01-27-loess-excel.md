@@ -56,6 +56,17 @@ Let's say you have isotope measurements at different stratigraphic heights and w
 
 The key thing to remember is that LOESS returns an array, so you need to select all the output cells before entering the formula.
 
+```bash
+
+| X_input | Y_input | X_output | Y_output (LOESS) |
+|---------|---------|----------|------------------|
+| 0       | 2.3     | 0        | =LOESS($A$2:$A$101, $B$2:$B$101, C2:C101, 15) |
+| 1       | 2.8     | 1        |                  |
+| 2       | 2.1     | 2        |                  |
+| ...     | ...     | ...      |                  |
+
+
+```
 
 ### Important Notes
 

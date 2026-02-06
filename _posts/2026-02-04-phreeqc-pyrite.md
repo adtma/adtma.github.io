@@ -9,24 +9,24 @@ tags:
   - tutorial
 ---
 
-A conversation I had a couple of weeks ago led me to explore a geochemical modeling tool called [PHREEQC](www.usgs.gov/software/phreeqc-version-3). I remember in one of the classes I took in grad school, we had a session on this (it was intro to geochemistry, probably). I also remember that I did a little bit of digging and exploring the possibility of incorporating PHREEQC into my carbon cycle model for one of my side projects during my PhD. My idea was to use PHREEQC to do carbonate chemistry calculations to quantify carbonate saturation states in each modeling time step. I don't remember the exact reasons why I abandoned the idea, but likely they were a combination of (1) the software has too many knobs, which means for a deep-time geologist like me, more parameters that are difficult to constrain, and (2) I found a simpler alternative (I translated Richard Zeebe’s cysis C code into python script).
+A conversation I had a couple of weeks ago led me to explore a geochemical modeling tool called [PHREEQC](www.usgs.gov/software/phreeqc-version-3). I remember in one of the classes I took in grad school, we had a session on this (it was intro to geochemistry, probably). I also remember that I did a little bit of digging and exploring the possibility of incorporating PHREEQC into my carbon cycle model for one of my side projects during my PhD. My idea was to use PHREEQC to do carbonate chemistry calculations to quantify carbonate saturation states in each modeling time step. I don't remember the exact reason why I abandoned the idea, but likely it was a combination of (1) the software has too many knobs (i.e., parameters), which means for a deep-time geologist like me, more parameters that are difficult to constrain, and (2) I found a simpler alternative (I translated Richard Zeebe’s cysis C code into python script).
 
 Anyway, recently I learned that there is a Python package that can be used to interact with PHREEQC. This discovery got me excited a little bit, partly because I was not very keen on installing the full GUI software on my laptop due to a steep learning curve. Because of my familiarity with Python, I feel like I can overcome the issue relatively easily. 
 
 ## Installation
-The package to interface Python with PHREEQC is called [PhreeqPy](https://www.phreeqpy.com/). The installation is pretty simple. The recommended method is installing the package using the pip package manager by typing this in your terminal
+The package to interface Python with PHREEQC is called [PhreeqPy](https://www.phreeqpy.com/). The installation is pretty simple. The recommended method is installing the package using the `pip` package manager by typing this in your terminal
 
 ```bash
 pip install phreeqpy
 ```
 
-Since I am a conda/mamba user, I was pretty hesitant with this approach. I checked to see if there was a conda version available in the conda-forge channel. Unfortunately, I found that the version available on the conda-forge channel is not the most up-to-date version (which is kind of strange, because conda-forge packages are usually up-to-date). Because of this versioning issue, I went ahead and used pip to install phreeqpy on my laptop. I also made a virtual environment using venv to isolate the package from the rest of my “working” Python environment.
+Since I am a conda/mamba user, I was pretty hesitant with this approach. I checked to see if there was a conda version available in the conda-forge channel. Unfortunately, I found that the version available on the conda-forge channel is not the most up-to-date version (which is kind of strange, because conda-forge packages are usually up-to-date). Because of this versioning issue, I went ahead and used `pip` to install phreeqpy on my laptop. I also made a virtual environment using `venv` to isolate the package from the rest of my “working” Python environment.
 
-The installation is pretty straightforward. I ran some example scripts that the developer provides on the Phreeqpy website, and all seemed to be working fine. However, when I tried to change the database from the default phreeqc.dat to pitzer.dat, it threw an error message that said “cannot load database”. 
+The installation is pretty straightforward. I ran some example scripts that the developer provided on the Phreeqpy website, and all seemed to be working fine. However, when I tried to change the database from the default phreeqc.dat to pitzer.dat, it threw an error message that said “cannot load database”. 
 
 It took me a while to troubleshoot the issue. I even used an LLM to help me, but it was not able to resolve the issue. I tried reinstalling and installed different version, but it did not work at all.
 
-The solution that ended up working was linking the Python package to an Iphreeqc library (you can think of it as a lightweight version of phreeqpy). Here are the steps to install the Iphreqc library on Mac (or Linux, Windows is probably a little different).
+The solution that ended up working was linking the Python package to an Iphreeqc library (you can think of it as a lightweight version of PHREEQC, just the engine without the bells and whistles). Here are the steps to install the Iphreqc library on Mac (or Linux, Windows is probably a little different).
 
 ```bash
 # make a folder to store the library on my home directory

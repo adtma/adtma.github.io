@@ -21,11 +21,11 @@ search: false
   border: 0;
 }
 
-.author__avatar img {
-  filter: grayscale(100%);
-  transition: filter 0.5s ease;
+.author__avatar a img {
+  filter: grayscale(100%) !important;
+  transition: filter 0.5s ease !important;
 }
 
-.author__avatar img:hover {
-  filter: grayscale(0%);
+.author__avatar a:hover img {
+  filter: grayscale(0%) !important;
 }

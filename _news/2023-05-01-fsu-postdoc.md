@@ -1,9 +1,9 @@
 ---
-title: "Big News: Heading to Florida State University! 🎓"
+title: "Big News: Heading to Florida State University!"
 excerpt: "I've just accepted a Postdoctoral Scholar position at Florida State University!"
 date: 2023-05-01
 ---
-I'm super excited to share some amazing news - I've just accepted a Postdoctoral Scholar position at Florida State University! 🎉
+I'm super excited to share some amazing news - I've just accepted a Postdoctoral Scholar position at Florida State University!
 
 ### The New Adventure
 
@@ -23,6 +23,6 @@ This research isn't just about understanding Earth's past - it could help us bet
 
 I can't wait to start this new chapter in Tallahassee! Between the cutting-edge research facilities at FSU (and MagLab), the brilliant minds I'll be working with, and the chance to contribute to our understanding of Earth's history, I'm beyond thrilled about what's ahead.
 
-Stay tuned for updates on our discoveries, and maybe even some behind-the-scenes looks at life as a postdoc. And yes, I'll try to squeeze in some posts about Florida's famous sunshine between all the lab work! ☀️
+Stay tuned for updates on our discoveries, and maybe even some behind-the-scenes looks at life as a postdoc. And yes, I'll try to squeeze in some posts about Florida's famous sunshine between all the lab work!
 
 *P.S. - If you're ever in Tallahassee and want to hear about ancient oxygen levels or see some really old rocks, you know where to find me!*

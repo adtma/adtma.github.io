@@ -11,7 +11,7 @@ There are many ways to install Python, and honestly, that's part of what makes g
 
 Python does not come preinstalled on Windows.
 
-1. Go to [anaconda.com/download](https://www.anaconda.com/download). You'll be asked to register with an email address. Do that and you'll get sent to the download page.
+1. Go to [anaconda.com/download](https://www.anaconda.com/download). You'll be asked to register with an email address. Do that and you'll get sent to the download page. If you don't want to register with an email, you can click the skip registration link at the bottom, or use this [link](https://www.anaconda.com/download/success?reg=skipped)
 2. Click the Windows 64-bit installer. It's a `.exe` file, around 1 GB.
 3. Double-click the installer once it finishes downloading. Click through the welcome screen.
 4. Accept the license agreement.
@@ -31,7 +31,7 @@ macOS comes with Python preinstalled, but don't use it. That Python belongs to y
 
 Before you download, check your Mac's chip. Click the Apple menu → About This Mac. You'll see either "Apple M1/M2/M3/M4" (Apple Silicon) or "Intel." This matters for step 2.
 
-1. Go to [anaconda.com/download](https://www.anaconda.com/download). Register with an email, then you'll get to the download page.
+1. Go to [anaconda.com/download](https://www.anaconda.com/download). Register with an email, then you'll get to the download page. If you don't want to register with an email, you can click the skip registration link at the bottom, or use this [link](https://www.anaconda.com/download/success?reg=skipped)
 2. Pick your installer:
     * **Apple Silicon Mac**: Choose the **64-Bit (Apple Silicon) Graphical Installer**. This runs natively and is much faster.
     * **Intel Mac**: Anaconda no longer builds new installers for Intel Macs as of August 2025. You have two options: use an archived installer from [repo.anaconda.com/archive](https://repo.anaconda.com/archive/), or skip Anaconda and install Miniforge instead (see the Miniforge section below).

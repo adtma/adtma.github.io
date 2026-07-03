@@ -21,11 +21,15 @@ author_profile: true
 
 **Manuscripts in review / in preparation**
 
-1) Wang, X-K., Liu, X-M., Husinec, A., Cao, C., Dera, G., **Adiatma, Y. D.**, Lithium isotope evidence for enhanced hydrothermal activity in the Jurassic. in review.
+5) **Adiatma, Y.D.**, Lindskog, A., Fravel, M.S., Crissey, J.T., Schwartz, M., White, G.A., Ahlberg, P., Reid, R.E.B, Lyons, T.W., Gill, B.C., Owens, J.D., Young, S.A., Oscillatory paleoredox conditions during the early Paleozoic. in review.
 
-2) **Adiatma, Y.D.**, Lindskog, A., Fravel, M.S., Crissey, J.T., Schwartz, M., White, G.A., Ahlberg, P., Owens, J.D., Young, S.A., Oscillatory paleoredox conditions during the early Paleozoic. in prepartion.
+4) Zhou, A., Zheng, W., Sahoo, S.K., Them II, T.R., Banerjee, Y., **Adiatma, Y.D.**, Owens, J.D., Mercury isotopes record sedimentary host phase transitions across the Ediacaran-Cambrian boundary. in review.
 
-3) Haber, P.C., Griffith, E.M., Fantle, M.S., **Adiatma, Y.D.**, Saltzman, M.R., Calcium isotope constraints on an Early Mississippian carbon isotope excursion. in preparation.
+3) Li, K., Ma, A., Hu, X., Lu, C., **Adiatma, Y.D.**, Li, L., Koeshidayatullah A., Zhang, H., Yang, D., Li, Z., Diagenetic fluid overprinting of micrite stable isotopes: implications for paleo-elevation reconstruction. in review
+
+2) **Adiatma, Y.D.**, Haber, P.C., Griffith, E.M., Fantle, M.S., Saltzman, M.R., Calcium isotope constraints on an Early Mississippian carbon isotope excursion. in preparation.
+
+1) Wang, X-K., Liu, X-M., Husinec, A., Cao, C., Dera, G., **Adiatma, Y. D.**, Lithium isotope evidence for enhanced hydrothermal activity in the Jurassic. in preparation.
 
 
 

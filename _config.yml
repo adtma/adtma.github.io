@@ -138,6 +138,18 @@ defaults:
       read_time: true
       comments: true
       share: true
+  # _modeling
+  - scope:
+      path: ""
+      type: modeling
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      comments: false
+      share: false
+      sidebar:
+        nav: "modeling"
 
 
 category_archive:
@@ -152,3 +164,6 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
+  modeling:
+    output: true
+    permalink: /modeling/:path/

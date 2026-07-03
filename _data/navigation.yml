@@ -26,7 +26,7 @@ modeling:
       - title: "Installing Python"
         url: /modeling/install-python/
       - title: "Conda Environments"
-        url: /modeling/conda-environments/
+        url: /modeling/conda-env/
   - title: "Solving ODEs"
     children:
       - title: "ODE Solvers"

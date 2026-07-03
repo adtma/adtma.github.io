@@ -58,6 +58,7 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-redirect-from
 
 author:
   name   : "Datu Adiatma"
@@ -144,6 +145,7 @@ defaults:
       type: modeling
     values:
       layout: single
+      classes: wide
       author_profile: false
       read_time: false
       comments: false

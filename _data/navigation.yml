@@ -29,8 +29,8 @@ modeling:
         url: /modeling/conda-environments/
   - title: "Solving ODEs"
     children:
-      - title: "Create and ODE Solvers"
-        url: /modeling/create-ode-solvers/
+      - title: "ODE Solvers"
+        url: /modeling/ode-solvers/
       - title: "A Simple Reservoir Model"
         url: /modeling/simple-reservoir/
       - title: "Stiff Systems and Solver Choice"

@@ -4,14 +4,11 @@ permalink: /modeling/quick-start/
 redirect_from: /modeling/
 ---
 
-Welcome. This is a small collection of tutorials I put together for my students and colleagues who want to get started with Python and numerical modeling. It's the kind of thing I wish someone had handed me when I first started out.
+Welcome. This is a small collection of tutorials I put together for students and my colleagues who want to get started with Python and numerical modeling. It's the kind of thing I wish someone had handed me when I first started out.
 
 ## Prerequisites
 
-Not much, honestly. You need:
-
-* Access to a computer or laptop.
-* Willingness to learn and mess around until things work.
+Not much, honestly. You need (1) Access to a computer or laptop. (2) Willingness to learn and mess around until things work.
 
 Familiarity with the command line and a terminal is a bonus but not required. I might put together a short terminal tutorial at some point and link it here.
 

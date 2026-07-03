@@ -5,9 +5,7 @@ permalink: /modeling/install-python/
 
 There are many ways to install Python, and honestly, that's part of what makes getting started confusing. You'll google around and find people telling you to use `pyenv`, `uv`, `homebrew`, the official installer from python.org, or one of the conda-based distributions. They're all valid. But if you're new to this, having too many options is worse than having one, so let me just tell you what to do.
 
-Install Anaconda. That's it. Skip to the section on [why Anaconda](#why-anaconda-or-miniconda) if you want the reasoning, or follow the step-by-step for your operating system below.
-
-One quick note before you download: Anaconda is free for individuals, students, researchers, and organizations with fewer than 200 employees. If you're at a large company, check with your IT department first, they might need a paid license or already have Miniforge available. For everyone in academia, you're fine.
+ I recommend *[Anaconda](https://en.wikipedia.org/wiki/Anaconda_(Python_distribution))*. You can skip to the section on [why Anaconda](#why-anaconda-or-miniconda) if you want the reasoning, or follow the step-by-step for your operating system below.
 
 ## Windows
 
@@ -46,12 +44,10 @@ Before you download, check your Mac's chip. Click the Apple menu → About This 
 
 If you don't see `(base)` in your terminal, quit and reopen Terminal, or run `source ~/.zshrc`. If that still doesn't work, you probably need to initialize conda manually:
 
-​```bash
+```bash
 source /opt/anaconda3/bin/activate
 conda init zsh
-​```
-
-Then quit and reopen Terminal.
+```
 
 ## Linux
 
@@ -59,11 +55,10 @@ Most Linux distributions come with Python preinstalled, but as with macOS, don't
 
 1. Go to [anaconda.com/download](https://www.anaconda.com/download) and grab the 64-bit Linux installer. It's a `.sh` script.
 2. Open a terminal and navigate to where you downloaded it (probably `~/Downloads`).
-3. Run the installer:
-    ​```bash
-    bash Anaconda3-2025.XX-Linux-x86_64.sh
-    ​```
-    (Replace `2025.XX` with whatever version you downloaded.)
+3. Run the installer: (Replace `2025.XX` with whatever version you downloaded.)
+```bash
+bash Anaconda3-2025.XX-Linux-x86_64.sh
+```
 4. Press Enter to review the license, then type `yes` to accept.
 5. Press Enter to accept the default install location, or type a different path.
 6. When it asks whether to initialize Anaconda by running `conda init`, type `yes`. This is important.
@@ -88,6 +83,26 @@ You can always switch to Miniconda or Miniforge later once you know what you act
 Once you have Python installed, there are a few different ways to actually run code. They're all doing the same thing under the hood, but they feel very different to work with.
 
 **The REPL.** Open a terminal (or Anaconda Prompt on Windows), type `python`, and hit enter. You'll get a prompt where you can type Python code one line at a time and see the result immediately. Great for quick calculations, testing a one-liner, or checking what a function does. Not great for writing anything longer than a few lines.
+```bash
+(base) datuadiatma@Datu-iMac ~ % python                  
+Python 3.12.10 | packaged by conda-forge | (main, Apr 10 2025, 22:19:24) [Clang 18.1.8 ] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> name = "Datu"
+>>> print(f"hello {name}") 
+hello Datu
+>>> x = 10
+>>> y = 3
+>>> print(x+y)
+13
+>>> for i in range(5):
+...     print(i)
+... 
+0
+1
+2
+3
+4
+```
 
 **Running a script from the terminal.** Write your code in a `.py` file using any text editor, then run it with `python myscript.py`. This is how most "real" Python programs get run in the wild. Good for anything you want to run repeatedly or share.
 

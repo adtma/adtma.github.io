@@ -35,7 +35,7 @@ I also want to point you to a resource put together by a friend of mine, Tom Chu
 
 * [Geospatial Python for Glaciology](https://trchudley.github.io/geospatial-python-glaciology/#).
 
-It's geared toward geospatial analysis, but there's a lot of useful material for beginners in there too. I'll refer back to it from time to time throughout this series.
+It's geared toward geospatial analysis, but there's a lot of useful material for beginners in there too. I'll refer back to it from time to time throughout this series. Tom has a really nice intro to terminals and command line that you can access [here](https://trchudley.github.io/geospatial-python-glaciology/01_install/01_command_line.html), if you want to learn and familiarize yourself with using terminal.
 
 ## How to navigate
 

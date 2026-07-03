@@ -1,6 +1,6 @@
 ---
-title: "Conda Environments"
-permalink: /modeling/conda-env/
+title: "Stiff Systems and Solver Choice"
+permalink: /modeling/stiff-systems/
 ---
 
 Ok this is embarassing. I am not done writing this tutorial. So, please come again later.

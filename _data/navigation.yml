@@ -31,7 +31,7 @@ modeling:
     children:
       - title: "ODE Solvers"
         url: /modeling/ode-solvers/
-      - title: "A Simple Reservoir Model"
-        url: /modeling/simple-reservoir/
+      - title: "A Simple Box Model"
+        url: /modeling/simple-box/
       - title: "Stiff Systems and Solver Choice"
         url: /modeling/stiff-systems/

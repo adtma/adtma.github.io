@@ -1,6 +1,6 @@
 ---
-title: "Conda Environments"
-permalink: /modeling/conda-env/
+title: "A Simple Box Model"
+permalink: /modeling/simple-box/
 ---
 
 Ok this is embarassing. I am not done writing this tutorial. So, please come again later.

@@ -35,3 +35,7 @@ modeling:
         url: /modeling/simple-box/
       - title: "Stiff Systems and Solver Choice"
         url: /modeling/stiff-systems/
+  - title: "Examples"
+    children:
+      - title: "Young et al 2009"
+        url: /modeling/young-2009/

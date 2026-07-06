@@ -4,7 +4,7 @@ permalink: /modeling/quick-start/
 redirect_from: /modeling/
 ---
 
-Welcome. This is a small collection of tutorials I put together for students and my colleagues who want to get started with Python and numerical modeling. It's the kind of thing I wish someone had handed me when I first started out.
+Welcome. This is a small collection of tutorials I put together for students and colleagues who want to get started with Python and numerical modeling. It's the kind of thing I wish someone had handed me when I first started out.
 
 ## Prerequisites
 
@@ -18,16 +18,11 @@ Numerical modeling is a huge field. There are people who spend their entire care
 
 ## Where to go for more
 
-If you want a proper introduction to modeling Earth systems, I really recommend this book:
-
-* [Mathematical Modeling of Earth's Dynamical Systems](https://press.princeton.edu/books/paperback/9780691145143/mathematical-modeling-of-earths-dynamical-systems) by Slingerland and Kump.
+If you want a proper introduction to modeling Earth systems, I really recommend this book: [Mathematical Modeling of Earth's Dynamical Systems](https://press.princeton.edu/books/paperback/9780691145143/mathematical-modeling-of-earths-dynamical-systems) by Slingerland and Kump.
 
 It's the book that made a lot of things click for me. Worth every page.
 
-For Python itself, I mostly learned by doing. But there were two resources that helped me a lot when I first started back in 2020:
-
-* [Real Python](https://realpython.com/) has great tutorials that cover the basics all the way to more advanced topics.
-* [Corey Schafer's YouTube channel](https://www.youtube.com/@coreyms) is fantastic. His pandas and matplotlib series are especially good.
+For Python itself, I mostly learned by doing. But there were two resources that helped me a lot when I first started back in 2020. The first one is [Real Python](https://realpython.com/). It has great tutorials that cover the basics all the way to more advanced topics.The second is [Corey Schafer's YouTube channel](https://www.youtube.com/@coreyms), which is fantastic. His pandas and matplotlib series are especially good.
 
 Both are free and both are still what I point people to.
 

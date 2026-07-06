@@ -109,19 +109,19 @@ where:
 
 if model time < 20000 ky:
     
-- $r_R$ = $0.7106 - time(ky) \times 1 \times 10^{-8}$
+- \\(r_R\\) = \\(0.7106 - time(ky) \times 1 \times 10^{-8}\\)
 
 else:
     
-- $r_R$ = $\frac{(0.7106 + (weatherability -1) \times 0.7043)}{weatherability}$
+- \\(r_R\\) = \\(\frac{(0.7106 + (weatherability -1) \times 0.7043)}{weatherability}\\)
 
-$F_{wSr}$ = Flux of strontium into the oceans ($\times 10^{12} \frac{mol}{ky}$) = $30 \times weathearbility \times ClimateWeatheringFactor$
+\\(F_{wSr}\\) = Flux of strontium into the oceans (\\(\times 10^{12} \frac{mol}{ky}\\)) = \\(30 \times weathearbility \times ClimateWeatheringFactor\\)
 
-$F_{volc}$ = CO2 released from volcanic activity (specified)($\times 10^{12} \frac{mol}{ky}$)
+\\(F_{volc}\\) = CO2 released from volcanic activity (specified)(\\(\times 10^{12} \frac{mol}{ky}\\))
 
-$f_{hyd}$ = hydrothermal fraction of (total) volcanism = $1.75 \times 10^{-3}$ (based on modern values)
+\\(f_{hyd}\\) = hydrothermal fraction of (total) volcanism = \\(1.75 \times 10^{-3}\\) (based on modern values)
 
-$M_{o,Sr}$ = Amount of Sr in the ocean = $19 \times 10^4 (\times 10^{12}mol)$ (held constant)
+\\(M_{o,Sr}\\) = Amount of Sr in the ocean = \\(19 \times 10^4 (\times 10^{12}mol)\\) (held constant)
 
 
 ```python
@@ -147,13 +147,13 @@ $$pCO_2 = \left(\frac{M_{OC}}{M_{OC,initial}}\right) ^2 \times 5000 $$
 
 where:
 
-$M_{OC, initial}$ = $1.60 \times 10^7 (\times 10^{12}mol)$
+\\(M_{OC, initial}\\) = \\(1.60 \times 10^7 (\times 10^{12}mol)\\)
 
 $$ClimateWeatheringFactor = \left(\frac{pCO_2}{pCO_{2, initial}}\right)^{0.3}$$
 
 where:
 
-$pCO_{2, initial}$ = $5000$ ppmV (Berner, 2006)
+\\(pCO_{2, initial}\\) = \\(5000\\) ppmV (Berner, 2006)
 
 
 ```python

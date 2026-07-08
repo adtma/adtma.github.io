@@ -1,5 +1,5 @@
 ---
-title: "Quick-Start Guide"
+title: "Start Here"
 permalink: /modeling/quick-start/
 redirect_from: /modeling/
 ---

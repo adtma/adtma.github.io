@@ -11,9 +11,6 @@ main:
     url: /news/
   - title: "Contact"
     url: /contact/
-  - title: "Tutorial"
-    children:
-      - title: "Numerical Modeling"
   #- title: "Categories"
   #  url: /categories/
   #- title: "Tags"
@@ -24,7 +21,7 @@ main:
 modeling:
   - title: "Getting Started"
     children:
-      - title: "Start Here"
+      - title: "Quick Start Guide"
         url: /modeling/quick-start/
       - title: "Installing Python"
         url: /modeling/install-python/

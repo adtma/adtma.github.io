@@ -117,7 +117,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: false
+      related: true
       teaser: /assets/images/teaser_1.png
   # _pages
   - scope:

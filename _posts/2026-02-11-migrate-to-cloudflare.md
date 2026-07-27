@@ -1,6 +1,8 @@
 ---
 title: 'DNS Migration to Cloudflare'
 date: 2026-02-11
+header:
+  teaser: /assets/images/blog/cloudflare.png
 categories:
   - blog
 tags:

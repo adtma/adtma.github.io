@@ -29,3 +29,28 @@ search: false
 .author__avatar a:hover img {
   filter: grayscale(0%) !important;
 }
+
+// Related posts: match content width, 3-up grid
+.page__related .grid__wrapper {
+  margin-right: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5em;
+}
+
+@include breakpoint($small) {
+  .page__related .grid__wrapper {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.page__related .grid__item {
+  float: none;
+  width: auto;
+  margin: 0;
+  clear: none;
+
+  .archive__item-teaser {
+    max-height: 200px;
+  }
+}

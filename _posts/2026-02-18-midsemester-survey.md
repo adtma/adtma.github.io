@@ -1,6 +1,8 @@
 ---
 title: 'Mid-Semester Surveys'
 date: 2026-02-18
+header:
+  teaser: /assets/images/blog/2026-02-18-midsemester/survey_teaser.png
 categories:
   - blog
 tags:
@@ -15,6 +17,9 @@ When I started teaching ESC1000 about two years ago, I moved to Google Forms. Th
 # What I Ask
 
 The survey for ESC3100 History of Earth System is organized into a few short sections. Here's a sample of what's in there:
+
+    
+![png](/assets/images/blog/2026-02-18-midsemester/survey.png)
 
 **Learning Experience**
 - "The pace of lectures works well for me" (1-5 scale)

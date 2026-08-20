@@ -2,7 +2,7 @@
 title: 'Mid-Semester Surveys'
 date: 2026-02-18
 header:
-  teaser: /assets/images/blog/2026-02-18-midsemester/survey_teaser.png
+  teaser: /assets/images/blog/2026-02-18-midsemester/survey.png
 categories:
   - blog
 tags:
@@ -10,9 +10,9 @@ tags:
 ---
 One of the things I genuinely care about as an instructor is making sure students are actually learning, not just sitting through lectures and hoping things click by the final exam. Mid-semester surveys are one of the simplest and most effective ways I know to catch problems while there's still time to do something about them.
 
-I've been doing this since my TA days, back when "anonymous survey" meant handing out index cards and collecting them in a pile. Pen and paper, nothing fancy. But it worked. Students wrote things they would never say out loud, and I could actually adjust.
+I've been doing this since my TA days in grad school, back when "anonymous survey" meant handing out index cards and collecting them in a pile. Pen and paper, nothing fancy. But it worked. Students wrote things they would never say out loud, and I could actually adjust.
 
-When I started teaching ESC1000 about two years ago, I moved to Google Forms. That shift made a real difference. Not because the questions changed, but because having the responses documented let me track patterns over time. I can look back at what students struggled with in previous semesters and come in more prepared. The data also helps me have more concrete conversations with myself about what's actually working versus what I just think is working.
+When I taught ESC1000 about two years ago, I moved to Google Forms. That shift made a real difference. Not because the questions changed, but because having the responses documented let me track patterns over time. I can look back at what students struggled with in previous semesters and come in more prepared. The data also helps me have more concrete conversations with myself about what's actually working versus what I just think is working.
 
 # What I Ask
 
@@ -48,7 +48,7 @@ This semester's responses pointed toward something consistent: students want mor
 
 I'm planning to build in more of that going forward, whether it's in-class discussions, short activities, or problem-solving moments that break up the standard lecture flow. It's a reasonable ask, and the fact that multiple students flagged it means it's worth acting on.
 
-## Why Bother?
+## Why did I do this?
 
 The honest answer is that end-of-semester evaluations come too late. By the time students fill those out, the course is done. There's nothing to fix. Mid-semester surveys flip that around. The students who fill out the survey are the same students who benefit from whatever changes come out of it.
 

@@ -27,9 +27,9 @@ author_profile: true
 
 3) Li, K., Ma, A., Hu, X., Lu, C., **Adiatma, Y.D.**, Li, L., Koeshidayatullah A., Zhang, H., Yang, D., Li, Z., Diagenetic fluid overprinting of micrite stable isotopes: implications for paleo-elevation reconstruction. in review
 
-2) **Adiatma, Y.D.**, Haber, P.C., Griffith, E.M., Fantle, M.S., Saltzman, M.R., Calcium isotope constraints on an Early Mississippian carbon isotope excursion. in preparation.
+2) **Adiatma, Y.D.**, Fantle, M.S., Haber, P.C., Griffith, E.M., Saltzman, M.R., Calcium isotopic constraints on the role of diagenesis in an early Mississippian positive carbon isotope excursion. in review.
 
-1) Wang, X-K., Liu, X-M., Husinec, A., Cao, C., Dera, G., **Adiatma, Y. D.**, Lithium isotope evidence for enhanced hydrothermal activity in the Jurassic. in preparation.
+1) Wang, X-K., Liu, X-M., Husinec, A., Cao, C., Dera, G., **Adiatma, Y. D.**, Lithium isotope evidence for enhanced hydrothermal activity in the Jurassic. in review.
 
 
 

@@ -8,6 +8,8 @@ author_profile: true
 
 **Peer-reviewed Publications**
 
+6) Li, K., Ma, A., Hu, X., Lu, C., **Adiatma, Y.D.**, Li, L., Koeshidayatullah, A., Zhange, H., Yang, D., Li, Z., 2026. Diagenetic Fluid Overprinting of Micrite Stable Isotopes: Implications for Paleo-Elevation Reconstruction. *Geochimica et Cosmochimica Acta*. [link](https://doi.org/10.1016/j.gca.2026.09.026)
+
 5) **Adiatma, Y.D.**, Saltzman, M.R., Liu, X-M., Wang, X-K., Edwards, C.T., 2024. Lithium isotope stratigraphy and Ordovician weathering. *Earth and Planetary Science Letters* 647. 119030. [link](https://doi.org/10.1016/j.epsl.2024.119030) [pdf](https://www.adtma.pw/assets/pdfs/papers/Adiatma_etal_2024b.pdf)
 
 4) **Adiatma, Y.D.**, Saltzman, M.R., Griffith, E.M., 2024. Calcium isotope constraints on a Middle Ordovician carbon isotope excursion. *Earth and Planetary Science Letters* 641, 118805. [link](https://doi.org/10.1016/j.epsl.2024.118805) [pdf](https://www.adtma.pw/assets/pdfs/papers/Adiatma_etal_2024a.pdf)
@@ -21,16 +23,13 @@ author_profile: true
 
 **Manuscripts in review / in preparation**
 
-5) **Adiatma, Y.D.**, Lindskog, A., Fravel, M.S., Crissey, J.T., Schwartz, M., White, G.A., Ahlberg, P., Reid, R.E.B, Lyons, T.W., Gill, B.C., Owens, J.D., Young, S.A., Oscillatory paleoredox conditions during the early Paleozoic. in review.
+4) **Adiatma, Y.D.**, Lindskog, A., Fravel, M.S., Crissey, J.T., Schwartz, M., White, G.A., Ahlberg, P., Reid, R.E.B, Lyons, T.W., Gill, B.C., Owens, J.D., Young, S.A., Oscillatory paleoredox conditions during the early Paleozoic. in review.
 
-4) Zhou, A., Zheng, W., Sahoo, S.K., Them II, T.R., Banerjee, Y., **Adiatma, Y.D.**, Owens, J.D., Mercury isotopes record sedimentary host phase transitions across the Ediacaran-Cambrian boundary. in review.
-
-3) Li, K., Ma, A., Hu, X., Lu, C., **Adiatma, Y.D.**, Li, L., Koeshidayatullah A., Zhang, H., Yang, D., Li, Z., Diagenetic fluid overprinting of micrite stable isotopes: implications for paleo-elevation reconstruction. in review
+3) Zhou, A., Zheng, W., Sahoo, S.K., Them II, T.R., Banerjee, Y., **Adiatma, Y.D.**, Owens, J.D., Mercury isotopes record sedimentary host phase transitions across the Ediacaran-Cambrian boundary. in review.
 
 2) **Adiatma, Y.D.**, Fantle, M.S., Haber, P.C., Griffith, E.M., Saltzman, M.R., Calcium isotopic constraints on the role of diagenesis in an early Mississippian positive carbon isotope excursion. in review.
 
 1) Wang, X-K., Liu, X-M., Husinec, A., Cao, C., Dera, G., **Adiatma, Y. D.**, Lithium isotope evidence for enhanced hydrothermal activity in the Jurassic. in review.
-
 
 
 

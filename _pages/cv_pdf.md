@@ -8,12 +8,12 @@ redirect_from:
   - /cv.html
   - /resume
 ---
-If you browser does not render the file properly, you can download the pdf files [here for résumé](https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf) or  [here for my full CV](https://www.adtma.pw/assets/pdfs/AdiatmaFullCV.pdf).
+If you browser does not render the file properly, you can download the pdf files [here for résumé](https://www.adtma.pw/assets/pdfs/AdiatmaResume.pdf) or  [here for my full CV](https://www.adtma.pw/assets/pdfs/Adiatma_CV_Sept_2026.pdf).
 
 
 <div markdown="0">
-<object data="https://www.adtma.pw/assets/pdfs/AdiatmaFullCV.pdf" type="application/pdf" width="100%" height="75vh" style="margin-top: 10px;">
+<object data="https://www.adtma.pw/assets/pdfs/Adiatma_CV_Sept_2026.pdf" type="application/pdf" width="100%" height="75vh" style="margin-top: 10px;">
   <p>It appears you don't have a PDF plugin for this browser.
-  <a href="https://www.adtma.pw/assets/pdfs/AdiatmaFullCV.pdf">Click here to download the PDF file.</a></p>
+  <a href="https://www.adtma.pw/assets/pdfs/Adiatma_CV_Sept_2026.pdf">Click here to download the PDF file.</a></p>
 </object>
 </div>
